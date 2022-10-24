@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1666651524 source:c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\clase de apoyo\ejercicio3pprog\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
